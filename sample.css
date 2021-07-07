@@ -324,7 +324,7 @@ h1 {
 
 #sub_cover {
   padding: 40px 0;
-  background-image: url("../images/news/sub_cover.jpg");
+  background-image: url("https://github.com/fuka255/sample-company/blob/main/sub_cover.jpg?raw=true");
   background-size: cover;
 }
 
