@@ -115,7 +115,7 @@ header .sp_navi_li li a {
     display: inline-block;
     line-height: 40px;
     padding-left: 50px;
-    background-image: url("../images/top/navi_company.png");
+    background-image: url("https://github.com/fuka255/sample-company/blob/main/navi_company.png?raw=true");
     background-size: 40px 40px;
   }
 }
