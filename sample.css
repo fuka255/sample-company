@@ -226,6 +226,7 @@ header .sp_navi_li li a {
     font-size: 14px;
     font-size: 1.4rem;
     margin-bottom: 20px;
+    text-align: center;
   }
   #news_area .news_lists li span {
     display: inline;
