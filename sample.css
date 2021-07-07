@@ -129,7 +129,7 @@ header .sp_navi_li li a {
 #cover_area {
   text-align: center;
   padding: 80px 0;
-  background-image: url("../images/top/cover.jpg");
+  background-image: url("https://github.com/fuka255/sample-company/blob/main/cover.jpg?raw=true");
   background-size: cover;
 }
 
