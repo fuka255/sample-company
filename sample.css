@@ -99,7 +99,7 @@ header .sp_navi_li li a {
     display: inline-block;
     line-height: 40px;
     padding-left: 50px;
-    background-image: url("../images/top/navi_top.png");
+    background-image: url("https://github.com/fuka255/sample-company/blob/main/navi_top.png?raw=true");
     background-size: 40px 40px;
   }
   header .pc_navi_li li.navi_news a {
